@@ -1,1 +1,1 @@
-[You got a raise!](cd/README.md)
+[You got a raise!](cd ../README.md)
