@@ -1,7 +1,7 @@
 # Scenerio
 
-[Look Around](lookaround.md)
+[Look Around](situations/lookaround.md)
 
-[Suspects](suspects.md)
+[Suspects](situations/suspects.md)
 
 [Leave](situations/leave.md)
