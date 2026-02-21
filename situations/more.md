@@ -1,3 +1,1 @@
 [Pick the Guilty](pickone.md)
-
-[Ask More](more.md)
