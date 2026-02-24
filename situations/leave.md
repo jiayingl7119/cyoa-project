@@ -1,1 +1,1 @@
-[Begin Again](cyoa-project/README.md)
+[Begin Again](README.md)
