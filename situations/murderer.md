@@ -4,4 +4,4 @@ Which was... correct. How? In the beginning, it stated that jewelry is missing. 
 
 Congrats, Detective. You've arrested the right person.
 
-[You got a raise!](cd../README.md)
+[You got a raise!](../README.md)
