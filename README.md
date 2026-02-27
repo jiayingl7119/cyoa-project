@@ -10,4 +10,4 @@ There was an report on a murder at an apartment downtown. The victim was found d
 
 Click [here](IMG_0025.jpeg) to see our diagram
 
-Made by [Jiaying](https://github.com/jiayingl7119) and [Jasmina Shahobidinova](https://github.com/jasminas6389)
+Made by [Jia Ying Lin](https://github.com/jiayingl7119) and [Jasmina Shahobidinova](https://github.com/jasminas6389)
