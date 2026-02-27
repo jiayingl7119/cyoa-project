@@ -7,3 +7,7 @@ There was an report on a murder at an apartment downtown. The victim was found d
 [Suspects](situations/suspects.md)
 
 [Leave](situations/leave.md)
+
+Click [here](IMG_0025.jpeg) to see our diagram
+
+Made by [Jiaying](https://github.com/jiayingl7119) and [Jasmina Shahobidinova](https://github.com/jasminas6389)
